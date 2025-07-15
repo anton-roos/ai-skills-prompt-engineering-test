@@ -1,5 +1,4 @@
-prompt: "Write a professional email to a stakeholder explaining that you need more information for the new WhatsApp project to do a thorough requirement analysis."
-ai_response: "[Paste the AI's response here when you test this prompt]"# Zero-Shot Prompt Practice
+# Zero-Shot Prompt Practice
 # Email Writing
 prompt: "Write a professional email to stakeholders explaining a 2-week delay in the WhatsApp integration project. Include an apology, brief explanation of technical challenges, revised timeline, and next steps. Keep the tone professional but reassuring."
 ai_response: "[Test this prompt and paste the response here]"
